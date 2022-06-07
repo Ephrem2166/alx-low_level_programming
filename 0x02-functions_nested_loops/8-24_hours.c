@@ -1,4 +1,4 @@
-#include "main'h"
+#include "main.h"
 /**
  * jack_bauer - check description
  * Description: function prints every minute in one day
